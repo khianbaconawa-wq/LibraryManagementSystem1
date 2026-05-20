@@ -1,4 +1,3 @@
-# LibraryManagementSystem1
 # ==============================
 # LIBRARY MANAGEMENT SYSTEM
 # ==============================
